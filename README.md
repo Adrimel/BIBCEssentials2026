@@ -5,4 +5,5 @@ do the exercises for 1.5 hours, then combine your strengths to get some clusteri
 LUSC healthy and cancer data. 
 
 Subject matter covered: k-means clustering, hierarchical clustering, PCA, t-SNE, and UMAP
+
 Author: Dieter Stoker
